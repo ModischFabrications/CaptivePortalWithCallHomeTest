@@ -5,4 +5,4 @@
 .gcc-flags.json
 .vscode
 
-// *secrets.h
+*secrets.h
